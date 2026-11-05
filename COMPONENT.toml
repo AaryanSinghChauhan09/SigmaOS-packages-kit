@@ -1,0 +1,9 @@
+[component]
+name = "SigmaOS-packages-kit"
+description = "SigmaOS subsystem component for packages-kit"
+version = "0.1.0"
+tier = 3
+
+[capabilities]
+contract_version = "1.0.0"
+principles = ["DRY", "KISS", "SOLID", "Arrange-Act-Assert", "Pristine-Sources"]
