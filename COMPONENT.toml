@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-packages-kit"
-description = "SigmaOS subsystem component for packages-kit"
+description = "apt/dpkg transaction kit (aptkit-style)"
 version = "0.1.0"
 tier = 3
 
